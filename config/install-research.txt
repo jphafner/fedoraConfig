@@ -1,0 +1,14 @@
+gromacs
+gromacs-bash
+gromacs-common
+gromacs-devel
+gromacs-libs
+gromacs-openmpi
+gromacs-openmpi-devel
+gromacs-openmpi-libs
+gromacs-tutor
+pymol
+suitesparse
+suitesparse-devel
+suitesparse-doc
+suitesparse-static

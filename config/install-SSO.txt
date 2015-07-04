@@ -1,0 +1,8 @@
+kmod-openafs
+krb5-auth-dialog
+krb5-libs
+krb5-workstation
+openafs
+openafs-client
+ntpd
+pam_krb5

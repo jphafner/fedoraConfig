@@ -1,0 +1,7 @@
+[home_JojoBoulix]
+name=Auto Multiple Choice (Fedora_20)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/JojoBoulix/Fedora_20/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/JojoBoulix/Fedora_20/repodata/repomd.xml.key
+enabled=1
